@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Lalindu Rubasinghe </h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
+<h3 align="center">I'm a passionate Software Quality Assurance Engineer at Commercial Bank of Ceylon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MihisaraR99&label=Profile%20views&color=0e75b6&style=flat" alt="MihisaraR99" /> </p>
 
 
 
-- 🌱 I’m currently learning *JAVA, MERN*
+- 🌱 I’m currently learning *Test Automation, Performance Testing*
 
-- 👯 I’m interested in *Software Development and Open Source Projects*
+- 👯 I’m interested in *Software Development and Software Quality Asuurance*
 
 - 📫 How to reach me *Email :mihisara.r99@hotmail.com | LinkedIn : http://linkedin.com/in/lalindu-m-rubasinghe-48920a212
 
