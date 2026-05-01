@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Test Automation, Performance Testing*
 
-- 👯 I’m interested in *Software Development and Software Quality Asuurance*
+- 👯 I’m interested in *Software Development and Software Quality Assurance*
 
 - 📫 How to reach me *Email :mihisara.r99@hotmail.com | LinkedIn : http://linkedin.com/in/lalindu-m-rubasinghe-48920a212
 
