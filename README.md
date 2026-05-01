@@ -97,8 +97,6 @@ I'm a **Software Quality Assurance Engineer** at **Commercial Bank of Ceylon**, 
 | 📋 Planned | Performance Testing with JMeter | — |
 | 📋 Planned | API Testing Advanced — Postman & REST Assured | — |
 
-> _Update this table with your actual certifications and completion dates._
-
 ---
 
 ## What I'm Focused On
